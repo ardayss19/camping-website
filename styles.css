@@ -38,3 +38,60 @@
 .card {
   margin: 0.5em;
 }
+
+#aboutUs,
+#experiences {
+  color: #5e8fc7;
+  font-weight: bold;
+  padding-left: 100px;
+  padding-top: 85px;
+}
+#homeText,
+#products,
+#login {
+  color: #2a7e19;
+  font-weight: bold;
+  padding-left: 100px;
+  padding-top: 85px;
+}
+
+.footerContainer {
+  background-color: #a3d1ab;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  gap: 30%;
+}
+
+.contactUs ul {
+  list-style-type: none;
+  gap: 10px;
+}
+
+.company ul {
+  list-style-type: none;
+  gap: 10px;
+}
+
+.decorative-line {
+  height: 1px;
+  background: black;
+}
+
+.copyright {
+  background-color: #a3d1ab;
+  text-align: center;
+  font-size: small;
+  font-style: italic;
+  padding: 8px;
+}
+
+#shubhraCarousel {
+  width: 80% !important;
+  margin: auto !important;
+  height: 400px !important;
+}
+#experiences h1 {
+  text-align: center !important;
+  margin-top: 20px;
+}
