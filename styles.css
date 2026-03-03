@@ -1,0 +1,31 @@
+.footerContainer {
+    background-color: #A3D1AB;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    gap: 30%;
+}
+
+.contactUs ul  {
+    list-style-type: none;
+    gap: 10px
+}
+
+.company ul  {
+    list-style-type: none;
+    gap: 10px
+}
+
+.decorative-line {
+    height: 1px;
+    background: black;
+}
+
+.copyright {
+    background-color: #A3D1AB;
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+    padding: 8px;
+}
+
