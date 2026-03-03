@@ -38,3 +38,15 @@
 .card {
   margin: 0.5em;
 }
+#aboutUs,#experiences{
+    color: #5E8FC7;
+    font-weight: bold;
+    padding-left: 100px;
+    padding-top:85px;
+}
+#homeText,#products,#login{
+    color:#2A7E19;
+    font-weight: bold;
+    padding-left: 100px;
+    padding-top: 85px;    
+}
